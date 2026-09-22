@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "url": "https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.3/MusicFloat-Setup-1.0.3.exe",
-  "sha256": "83ce703d45ceb857ae867cbfb9da0c07ecdae1d6a41a0e9333acc1b1af1b9943",
+  "version": "1.0.4",
+  "url": "https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.4/MusicFloat-Setup-1.0.4.exe",
+  "sha256": "4025c7f429a1fbae85e3d0957be70c7a3635c4c7d39dce988a704b4a13069488",
   "mandatory": false,
   "notes": "1. 主题和工坊改成了看得见的按钮\n2. 小工坊支持匿名上传歌单\n3. 修复了导入歌曲后全部音乐计数为 0 的问题"
 }
