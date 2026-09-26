@@ -1,12 +1,12 @@
 {
-  "version": "1.0.8",
-  "url": "https://ghproxy.net/https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.8/MusicFloat-Setup-1.0.8.exe",
+  "version": "1.0.9",
+  "url": "https://ghproxy.net/https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.9/MusicFloat-Setup-1.0.9.exe",
   "urls": [
-    "https://ghproxy.net/https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.8/MusicFloat-Setup-1.0.8.exe",
-    "https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.8/MusicFloat-Setup-1.0.8.exe"
+    "https://ghproxy.net/https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.9/MusicFloat-Setup-1.0.9.exe",
+    "https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.9/MusicFloat-Setup-1.0.9.exe"
   ],
-  "sha256": "b9822e135dc21d6164ead260e8f3f9c0678ae2b6f86809395933270dafbe61b5",
-  "size": 139885570,
+  "sha256": "5d3b5bbe455f0f2bb3df308578edb8032182776d3d30a440213023e68afd653d",
+  "size": 139885566,
   "mandatory": false,
-  "notes": "1. 下载进度条修好了：以前走国内代理时分块传输拿不到文件总大小，进度条全程停在 0%、最后突然跳满；现在会显示\"已下载 / 总大小 / 实时速度\"\n2. 下载完**自动替换**旧版本：不用再点\"立即安装\"，软件会自己关闭、静默安装、装完自动重新打开\n3. 打开软件后 **2.5 秒**就开始检查更新（以前是 6 秒），之后每 15 分钟复查一次，窗口获得焦点时也会复查\n4. 下载卡住 90 秒会自动换下一个下载源，不会一直干等"
+  "notes": "1. 更新流程验证版：装好后打开软件 2.5 秒内就会检查更新\n2. 下载进度条会显示\"已下载 / 总大小 / 实时速度\"（以前走国内代理时会一直停在 0%）\n3. 下载完成并校验通过后会自动替换旧版本，装完自动重新打开，不需要手动点安装\n4. 下载卡住 90 秒会自动换下一个下载源"
 }
