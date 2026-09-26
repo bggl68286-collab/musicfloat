@@ -1,0 +1,12 @@
+{
+  "version": "1.0.7",
+  "url": "https://ghproxy.net/https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.7/MusicFloat-Setup-1.0.7.exe",
+  "urls": [
+    "https://ghproxy.net/https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.7/MusicFloat-Setup-1.0.7.exe",
+    "https://github.com/bggl68286-collab/musicfloat/releases/download/v1.0.7/MusicFloat-Setup-1.0.7.exe"
+  ],
+  "sha256": "2f442080a95276cf721f06dab0d9d549ffa58992987b384f1227f13e438adb17",
+  "size": 139884185,
+  "mandatory": false,
+  "notes": "1. 自动更新终于能用了：打开软件 6 秒后自动检查，之后每 3 小时再查一次，发现新版本一键更新\n2. 修复拖动窗口时越拖越大（显示缩放不是 100% 的电脑上会出现）\n3. 修复关掉「窗口置顶」后重启又变回置顶，现在会记住你的选择\n4. 修复收起时「圆形外面套一个方框」，现在是干净的圆角卡片，四角直接露出桌面\n注意：这一版需要手动安装一次，之后的新版本都会自动提示。"
+}
