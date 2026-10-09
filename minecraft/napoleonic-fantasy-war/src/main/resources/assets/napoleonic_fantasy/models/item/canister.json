@@ -1,0 +1,1 @@
+{"loader": "forge:obj", "model": "napoleonic_fantasy:models/item/canister.obj", "automatic_culling": false, "shade_quads": true, "flip_v": true, "textures": {"particle": "napoleonic_fantasy:item/cannon_materials"}}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "ISI",
+    "L L"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_block"
+    },
+    "I": {
+      "item": "minecraft:iron_block"
+    },
+    "S": {
+      "item": "minecraft:netherite_ingot"
+    },
+    "L": {
+      "tag": "minecraft:logs"
+    }
+  },
+  "result": {
+    "item": "napoleonic_fantasy:hand_cannon"
+  }
+}

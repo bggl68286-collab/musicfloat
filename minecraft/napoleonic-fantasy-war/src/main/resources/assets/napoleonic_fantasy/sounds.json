@@ -1,0 +1,92 @@
+{
+  "sponge": {
+    "subtitle": "subtitles.napoleonic_fantasy.sponge",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:sponge",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "powder": {
+    "subtitle": "subtitles.napoleonic_fantasy.powder",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:powder",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "insert": {
+    "subtitle": "subtitles.napoleonic_fantasy.insert",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:insert",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "ram": {
+    "subtitle": "subtitles.napoleonic_fantasy.ram",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:ram",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "aim": {
+    "subtitle": "subtitles.napoleonic_fantasy.aim",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:aim",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "ignite": {
+    "subtitle": "subtitles.napoleonic_fantasy.ignite",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:ignite",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "report": {
+    "subtitle": "subtitles.napoleonic_fantasy.report",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:report",
+        "stream": false,
+        "attenuation_distance": 80
+      }
+    ]
+  },
+  "return": {
+    "subtitle": "subtitles.napoleonic_fantasy.return",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:return",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "impact": {
+    "subtitle": "subtitles.napoleonic_fantasy.impact",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:impact",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  }
+}

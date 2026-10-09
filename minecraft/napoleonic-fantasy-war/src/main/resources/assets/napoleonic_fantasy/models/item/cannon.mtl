@@ -1,0 +1,5 @@
+newmtl aged_cannon
+Ka 1 1 1
+Kd 1 1 1
+d 1
+map_Kd napoleonic_fantasy:item/cannon_materials

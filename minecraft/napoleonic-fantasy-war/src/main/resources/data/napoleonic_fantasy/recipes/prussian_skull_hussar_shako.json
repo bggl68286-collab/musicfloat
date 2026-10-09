@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LLL",
+    "LWL",
+    " S "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "W": {
+      "item": "minecraft:black_wool"
+    },
+    "S": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "item": "napoleonic_fantasy:prussian_skull_hussar_shako"
+  }
+}

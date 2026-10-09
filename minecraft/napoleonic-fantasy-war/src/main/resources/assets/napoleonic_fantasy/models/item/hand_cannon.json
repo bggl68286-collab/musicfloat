@@ -1,0 +1,127 @@
+{
+  "parent": "builtin/entity",
+  "textures": {
+    "particle": "napoleonic_fantasy:item/cannon_materials"
+  },
+  "display": {
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.48,
+        0.48,
+        0.48
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.48,
+        0.48,
+        0.48
+      ]
+    },
+    "thirdperson_righthand": {
+      "rotation": [
+        -154,
+        180,
+        180
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.48,
+        0.48,
+        0.48
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        -154,
+        180,
+        180
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.48,
+        0.48,
+        0.48
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.35,
+        0.35,
+        0.35
+      ]
+    },
+    "fixed": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.35,
+        0.35,
+        0.35
+      ]
+    },
+    "gui": {
+      "rotation": [
+        18,
+        -35,
+        0
+      ],
+      "translation": [
+        0,
+        2,
+        0
+      ],
+      "scale": [
+        0.29,
+        0.29,
+        0.29
+      ]
+    }
+  }
+}

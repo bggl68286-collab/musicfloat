@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "LGL",
+    "L L",
+    "L L"
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:leather"
+    },
+    "G": {
+      "item": "minecraft:gray_wool"
+    }
+  },
+  "result": {
+    "item": "napoleonic_fantasy:prussian_skull_hussar_breeches"
+  }
+}
