@@ -125,7 +125,7 @@
       {
         "name": "napoleonic_fantasy:musket_report",
         "stream": false,
-        "attenuation_distance": 80
+        "attenuation_distance": 16
       }
     ]
   },

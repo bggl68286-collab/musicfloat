@@ -9,6 +9,8 @@
 
 服装 Blockbench 源文件在 `art/source/prussian_skull_hussar_uniform.bbmodel`，材质原图在 `art/source/hussar_materials.png`，并提供经典与 Slim 两套 Blockbench 几何源。军服材质使用生成的黑色羊毛、红色领口、银色绳饰、白灰毛领、灰色马裤和黑色皮革区域；四个装备槽使用独立模型层，服装会随人物动作贴合。
 
+沙勒维尔枪的 Blockbench 源文件为 `art/source/charleville_1777.bbmodel`，使用 256×256 手绘材质图和分区 UV，避免物品栏及第一人称材质错采样。枪体包含枪托、锁板、击锤、火镰、火药池、扳机、三道枪箍、通条和可切换套筒刺刀。
+
 ## 安装
 
 把 `napoleonic_fantasy-1.0.0.jar` 放进 Minecraft 1.20.1 Forge 47.3.22 的 `mods` 文件夹。模组只需要 Forge，不依赖其他模组。
@@ -23,7 +25,9 @@ gradle runGameTestServer
 gradle runClient
 ```
 
-服务器 GameTest 已通过 13 项：炮、弹道、装填、粒子网络、军剑动作与伤害、四件军服注册和四槽位穿戴。
+服务器 GameTest 已通过 15 项：炮、弹道、装填、粒子网络、军剑动作与伤害、四件军服注册和四槽位穿戴，以及沙勒维尔枪的装填、单发射击和刺刀状态。
+
+特效参考由生图模型生成，再用游戏内分层粒子实现：燧石火花、橙色枪口闪光、短暂白烟、火星、暴击粒子和刺刀闪光。声音由 `tools/make_audio.py` 离线合成，保留 WAV 母带并导出 15 个单声道 Vorbis 音效，包含纸包弹、通条、燧发金属声、枪声、回响和刺刀动作声。
 
 ## 物品 ID
 

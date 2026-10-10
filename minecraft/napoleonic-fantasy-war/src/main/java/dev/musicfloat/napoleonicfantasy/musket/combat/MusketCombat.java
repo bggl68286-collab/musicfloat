@@ -39,6 +39,7 @@ public final class MusketCombat {
         level.sendParticles(ParticleTypes.CLOUD, impact.x, impact.y, impact.z, 16, .12, .12, .12, .03);
         level.sendParticles(ParticleTypes.SMOKE, start.x + direction.x * .8, start.y + direction.y * .8, start.z + direction.z * .8, 36, .18, .18, .18, .045);
         level.sendParticles(ParticleTypes.FLAME, start.x + direction.x * .7, start.y + direction.y * .7, start.z + direction.z * .7, 8, .08, .08, .08, .02);
+        level.sendParticles(ParticleTypes.CRIT, start.x + direction.x * .72, start.y + direction.y * .72, start.z + direction.z * .72, 14, .12, .12, .12, .16);
         level.playSound(null, player.blockPosition(), NapoleonicFantasy.SOUND.get("musket_report").get(), SoundSource.PLAYERS, 1.15f, .92f + level.random.nextFloat() * .12f);
         player.getCooldowns().addCooldown(NapoleonicFantasy.MUSKET.get(), 16);
     }
@@ -54,6 +55,7 @@ public final class MusketCombat {
             }
         }
         level.playSound(null, player.blockPosition(), NapoleonicFantasy.SOUND.get("bayonet_thrust").get(), SoundSource.PLAYERS, .9f, .95f + level.random.nextFloat() * .1f);
+        level.sendParticles(ParticleTypes.CRIT, center.x, center.y, center.z, 8, .08, .08, .08, .12);
         player.getCooldowns().addCooldown(NapoleonicFantasy.MUSKET.get(), 12);
     }
 

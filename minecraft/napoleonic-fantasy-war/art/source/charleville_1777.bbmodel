@@ -11,7 +11,7 @@
   },
   "elements": [
     {
-      "uuid": "7f0981f2-84d0-403a-82ec-1e92a76ebc9a",
+      "uuid": "6de29adb-e27b-495f-a4cb-68f5b606704f",
       "type": "cube",
       "name": "Butt stock",
       "from": [
@@ -87,7 +87,7 @@
       }
     },
     {
-      "uuid": "39714d91-552c-416b-8ebe-e957f6e2a469",
+      "uuid": "0cd9bd73-3b32-4e62-b446-bc3af8fac372",
       "type": "cube",
       "name": "Butt heel",
       "from": [
@@ -163,7 +163,7 @@
       }
     },
     {
-      "uuid": "66a7d958-4d51-4169-9f97-e1fc982954ff",
+      "uuid": "a25b6b55-0566-4c37-a723-bec5c41c5710",
       "type": "cube",
       "name": "Stock wrist",
       "from": [
@@ -239,7 +239,7 @@
       }
     },
     {
-      "uuid": "16cab540-1ba8-4f66-b333-02a1644fba38",
+      "uuid": "f3a0cfb8-1a07-40c9-813a-5d0ed8cd7a2c",
       "type": "cube",
       "name": "Stock comb",
       "from": [
@@ -315,7 +315,7 @@
       }
     },
     {
-      "uuid": "49afabbd-9ba3-4b39-8d84-96a92c297e53",
+      "uuid": "4a63ebd5-6d4d-4c58-bec0-0ba31e7c5700",
       "type": "cube",
       "name": "Cheek piece",
       "from": [
@@ -391,7 +391,7 @@
       }
     },
     {
-      "uuid": "08b7035b-cfde-45d2-92b6-7d8c50a96cdb",
+      "uuid": "2849347f-1062-498a-9499-47f77d214df3",
       "type": "cube",
       "name": "Lock bed",
       "from": [
@@ -467,7 +467,7 @@
       }
     },
     {
-      "uuid": "2672b214-a6c9-4cdd-a43d-5bc71dbc79db",
+      "uuid": "13c44534-018e-4541-aec5-a84b903df064",
       "type": "cube",
       "name": "Forearm",
       "from": [
@@ -543,7 +543,7 @@
       }
     },
     {
-      "uuid": "a2b8dce5-3b21-4047-b469-1f18168f550b",
+      "uuid": "b2278c37-8da6-4137-9d05-115b6f142c1d",
       "type": "cube",
       "name": "Forearm tip",
       "from": [
@@ -619,7 +619,7 @@
       }
     },
     {
-      "uuid": "103b105f-341d-45b5-898e-4111b6ed8ce8",
+      "uuid": "e8d3a3a8-f260-42a5-9866-3978f4519dc4",
       "type": "cube",
       "name": "Brass butt plate",
       "from": [
@@ -695,7 +695,7 @@
       }
     },
     {
-      "uuid": "1a6c669e-04c6-4861-96c2-36c53ab45851",
+      "uuid": "1f53c8b7-dc26-4da1-8a69-3de4ab951521",
       "type": "cube",
       "name": "Butt toe",
       "from": [
@@ -771,7 +771,7 @@
       }
     },
     {
-      "uuid": "ef20d4f5-2a7a-454b-92e5-951bcc6254c6",
+      "uuid": "a559fcdf-7238-4bd1-8f9f-4bebaf5d3688",
       "type": "cube",
       "name": "Trigger guard",
       "from": [
@@ -847,7 +847,7 @@
       }
     },
     {
-      "uuid": "1fa1a152-4a98-4d64-af7f-d06259abeb12",
+      "uuid": "001c0f06-63ad-46c8-b404-d1a55c7bd5ec",
       "type": "cube",
       "name": "Trigger guard bow",
       "from": [
@@ -923,7 +923,7 @@
       }
     },
     {
-      "uuid": "f83fdf4a-ae20-4ebc-845b-838568365da2",
+      "uuid": "5a4af184-d720-4213-9fe4-be5865558729",
       "type": "cube",
       "name": "Side plate",
       "from": [
@@ -999,7 +999,7 @@
       }
     },
     {
-      "uuid": "803b2638-b667-4bf9-b333-8318314503e5",
+      "uuid": "ff226859-3999-4573-98d9-e7f2ffa64a74",
       "type": "cube",
       "name": "Rear ramrod pipe",
       "from": [
@@ -1075,7 +1075,7 @@
       }
     },
     {
-      "uuid": "3edd0989-f1fc-4d7e-81c2-696220716df2",
+      "uuid": "d7e91469-5fab-45a3-8da5-af7a484e1683",
       "type": "cube",
       "name": "Front ramrod pipe",
       "from": [
@@ -1151,7 +1151,7 @@
       }
     },
     {
-      "uuid": "c9773ba0-99d2-41d8-b3df-9683add266f6",
+      "uuid": "7693aff6-374f-4559-89de-f76ee42dd81a",
       "type": "cube",
       "name": "Barrel breech",
       "from": [
@@ -1227,7 +1227,7 @@
       }
     },
     {
-      "uuid": "0fe22bcc-a964-4655-a10d-b416ea19efe7",
+      "uuid": "72797f80-d569-4c2a-8ed4-6606ec8c2dc4",
       "type": "cube",
       "name": "Barrel tube",
       "from": [
@@ -1303,7 +1303,7 @@
       }
     },
     {
-      "uuid": "e89c92e9-c555-44ce-8985-ce95f07f6255",
+      "uuid": "8210995d-6757-4a9d-9c1b-4cdf4d96e9a2",
       "type": "cube",
       "name": "Muzzle swell",
       "from": [
@@ -1379,7 +1379,7 @@
       }
     },
     {
-      "uuid": "f3c24ebe-6477-48ab-bac9-c8c88aa5a5a4",
+      "uuid": "295f17fd-9249-4d6e-883f-1f3e5e4533ae",
       "type": "cube",
       "name": "Rear barrel band",
       "from": [
@@ -1455,7 +1455,7 @@
       }
     },
     {
-      "uuid": "afd555b2-b5f8-47ba-80f9-a9a7c9aca5d1",
+      "uuid": "5da41ae2-bef2-4922-bc94-9880b1daf1cf",
       "type": "cube",
       "name": "Middle barrel band",
       "from": [
@@ -1531,7 +1531,7 @@
       }
     },
     {
-      "uuid": "45f3444e-57a4-4213-b261-51c80e8b79d7",
+      "uuid": "b9ad956b-7db5-4b45-b6f7-feb9140b144a",
       "type": "cube",
       "name": "Front barrel band",
       "from": [
@@ -1607,7 +1607,7 @@
       }
     },
     {
-      "uuid": "3edc1a5c-8f7e-4ff5-9d91-9292e6c79022",
+      "uuid": "3777ed50-4df6-4422-b076-902035f6033a",
       "type": "cube",
       "name": "Muzzle rim",
       "from": [
@@ -1683,7 +1683,7 @@
       }
     },
     {
-      "uuid": "99782892-820d-4267-9d43-9284231afea0",
+      "uuid": "63e543ae-f40f-48ae-90aa-562960c4016c",
       "type": "cube",
       "name": "Lock plate",
       "from": [
@@ -1759,7 +1759,7 @@
       }
     },
     {
-      "uuid": "08f1279f-63e2-492b-9e5f-0c2e766be563",
+      "uuid": "ca224067-bfb2-4d30-886b-a518105ffd94",
       "type": "cube",
       "name": "Tumbler housing",
       "from": [
@@ -1835,7 +1835,7 @@
       }
     },
     {
-      "uuid": "8dbcf277-832e-432f-8897-bbf18f4812f9",
+      "uuid": "f3b5242f-4a20-457f-a47e-111f8d2dd138",
       "type": "cube",
       "name": "Frizzen",
       "from": [
@@ -1911,7 +1911,7 @@
       }
     },
     {
-      "uuid": "249503a3-9aea-4423-bd8b-e1ce92eb5cd8",
+      "uuid": "3dc9c207-e447-4951-a4de-b1befdb46b18",
       "type": "cube",
       "name": "Frizzen foot",
       "from": [
@@ -1987,7 +1987,7 @@
       }
     },
     {
-      "uuid": "7783bca5-41ae-4f11-bdc4-351fda4aa6e8",
+      "uuid": "78b8f9d3-fea0-498a-b852-dd37566d21e1",
       "type": "cube",
       "name": "Powder pan",
       "from": [
@@ -2063,7 +2063,7 @@
       }
     },
     {
-      "uuid": "a387bd21-d0c8-44c0-b360-fe0b9d84d68f",
+      "uuid": "e0b9150a-82c5-4eaf-9f96-2df7ecf7c308",
       "type": "cube",
       "name": "Cock arm",
       "from": [
@@ -2139,7 +2139,7 @@
       }
     },
     {
-      "uuid": "38c76f4a-4f96-48ea-9b15-b0786ba6264e",
+      "uuid": "f43a7106-7b23-49db-81a7-2a4a356f375c",
       "type": "cube",
       "name": "Cock jaw",
       "from": [
@@ -2215,7 +2215,7 @@
       }
     },
     {
-      "uuid": "9ba068a3-0332-45c1-a60d-d17fd25f0a28",
+      "uuid": "104dc6a8-14d3-4e97-a2d5-45b6787c9fdf",
       "type": "cube",
       "name": "Flint",
       "from": [
@@ -2291,7 +2291,7 @@
       }
     },
     {
-      "uuid": "9678cac6-3c36-49aa-b978-6cda3bd90506",
+      "uuid": "230bae12-2df9-42a9-b53d-f19d1a0024bc",
       "type": "cube",
       "name": "Lock screw",
       "from": [
@@ -2367,7 +2367,7 @@
       }
     },
     {
-      "uuid": "38a3a6df-c676-441e-aa0a-acd8bc73fb71",
+      "uuid": "c9ac1982-df55-4db9-b142-f86979fdbf7d",
       "type": "cube",
       "name": "Lock screw rear",
       "from": [
@@ -2443,7 +2443,7 @@
       }
     },
     {
-      "uuid": "892e1f3e-c709-4ffc-88df-02052913cdb1",
+      "uuid": "3ebe274a-c6d7-41e5-a637-e131aaeeeea6",
       "type": "cube",
       "name": "Trigger",
       "from": [
@@ -2519,7 +2519,7 @@
       }
     },
     {
-      "uuid": "a675b22c-2883-43a5-872e-dfd487057746",
+      "uuid": "435fa00e-8c3c-453f-9957-b68305e93514",
       "type": "cube",
       "name": "Ramrod wood",
       "from": [
@@ -2595,7 +2595,7 @@
       }
     },
     {
-      "uuid": "28c49156-0d4f-4907-97fc-295019f2110d",
+      "uuid": "2d7761e5-6a0b-43d9-bb3d-63bd18151bb0",
       "type": "cube",
       "name": "Ramrod tip",
       "from": [
@@ -2671,7 +2671,7 @@
       }
     },
     {
-      "uuid": "51a6e500-0088-4c9e-ac5f-4edaf6a08a14",
+      "uuid": "7551d077-f00f-43d6-afb4-9298d0d88308",
       "type": "cube",
       "name": "Ramrod button",
       "from": [
@@ -2747,7 +2747,7 @@
       }
     },
     {
-      "uuid": "f23aa0cb-b20d-4759-9b9f-97596d46dab4",
+      "uuid": "80d9e7d0-987c-4869-ae9d-051c82b1ffc8",
       "type": "cube",
       "name": "Bayonet socket",
       "from": [
@@ -2823,7 +2823,7 @@
       }
     },
     {
-      "uuid": "83e7cb9c-afa1-40cd-81db-648be9ad7bf7",
+      "uuid": "4d81d76c-9e4a-4ba3-ab8c-c43dfcf8e12f",
       "type": "cube",
       "name": "Bayonet collar",
       "from": [
@@ -2899,7 +2899,7 @@
       }
     },
     {
-      "uuid": "869ec615-8543-4243-9e81-7d5cec5ac99a",
+      "uuid": "2c9eba14-8b55-4ad6-9476-e33df26c27f4",
       "type": "cube",
       "name": "Bayonet blade",
       "from": [
@@ -2975,7 +2975,7 @@
       }
     },
     {
-      "uuid": "16489a3a-5c29-4f65-90fe-b4f3f782c269",
+      "uuid": "9f08c706-658d-4050-a177-d334d5aff9ab",
       "type": "cube",
       "name": "Bayonet point",
       "from": [
@@ -3059,48 +3059,48 @@
         8,
         8
       ],
-      "uuid": "54754d41-57ef-4a2f-a5a9-a0bf4153ff1e",
+      "uuid": "71c4fe7f-bfd2-4c24-ade5-c7d6d92cfeed",
       "children": [
-        "7f0981f2-84d0-403a-82ec-1e92a76ebc9a",
-        "39714d91-552c-416b-8ebe-e957f6e2a469",
-        "66a7d958-4d51-4169-9f97-e1fc982954ff",
-        "16cab540-1ba8-4f66-b333-02a1644fba38",
-        "49afabbd-9ba3-4b39-8d84-96a92c297e53",
-        "08b7035b-cfde-45d2-92b6-7d8c50a96cdb",
-        "2672b214-a6c9-4cdd-a43d-5bc71dbc79db",
-        "a2b8dce5-3b21-4047-b469-1f18168f550b",
-        "103b105f-341d-45b5-898e-4111b6ed8ce8",
-        "1a6c669e-04c6-4861-96c2-36c53ab45851",
-        "ef20d4f5-2a7a-454b-92e5-951bcc6254c6",
-        "1fa1a152-4a98-4d64-af7f-d06259abeb12",
-        "f83fdf4a-ae20-4ebc-845b-838568365da2",
-        "803b2638-b667-4bf9-b333-8318314503e5",
-        "3edd0989-f1fc-4d7e-81c2-696220716df2",
-        "c9773ba0-99d2-41d8-b3df-9683add266f6",
-        "0fe22bcc-a964-4655-a10d-b416ea19efe7",
-        "e89c92e9-c555-44ce-8985-ce95f07f6255",
-        "f3c24ebe-6477-48ab-bac9-c8c88aa5a5a4",
-        "afd555b2-b5f8-47ba-80f9-a9a7c9aca5d1",
-        "45f3444e-57a4-4213-b261-51c80e8b79d7",
-        "3edc1a5c-8f7e-4ff5-9d91-9292e6c79022",
-        "99782892-820d-4267-9d43-9284231afea0",
-        "08f1279f-63e2-492b-9e5f-0c2e766be563",
-        "8dbcf277-832e-432f-8897-bbf18f4812f9",
-        "249503a3-9aea-4423-bd8b-e1ce92eb5cd8",
-        "7783bca5-41ae-4f11-bdc4-351fda4aa6e8",
-        "a387bd21-d0c8-44c0-b360-fe0b9d84d68f",
-        "38c76f4a-4f96-48ea-9b15-b0786ba6264e",
-        "9ba068a3-0332-45c1-a60d-d17fd25f0a28",
-        "9678cac6-3c36-49aa-b978-6cda3bd90506",
-        "38a3a6df-c676-441e-aa0a-acd8bc73fb71",
-        "892e1f3e-c709-4ffc-88df-02052913cdb1",
-        "a675b22c-2883-43a5-872e-dfd487057746",
-        "28c49156-0d4f-4907-97fc-295019f2110d",
-        "51a6e500-0088-4c9e-ac5f-4edaf6a08a14",
-        "f23aa0cb-b20d-4759-9b9f-97596d46dab4",
-        "83e7cb9c-afa1-40cd-81db-648be9ad7bf7",
-        "869ec615-8543-4243-9e81-7d5cec5ac99a",
-        "16489a3a-5c29-4f65-90fe-b4f3f782c269"
+        "6de29adb-e27b-495f-a4cb-68f5b606704f",
+        "0cd9bd73-3b32-4e62-b446-bc3af8fac372",
+        "a25b6b55-0566-4c37-a723-bec5c41c5710",
+        "f3a0cfb8-1a07-40c9-813a-5d0ed8cd7a2c",
+        "4a63ebd5-6d4d-4c58-bec0-0ba31e7c5700",
+        "2849347f-1062-498a-9499-47f77d214df3",
+        "13c44534-018e-4541-aec5-a84b903df064",
+        "b2278c37-8da6-4137-9d05-115b6f142c1d",
+        "e8d3a3a8-f260-42a5-9866-3978f4519dc4",
+        "1f53c8b7-dc26-4da1-8a69-3de4ab951521",
+        "a559fcdf-7238-4bd1-8f9f-4bebaf5d3688",
+        "001c0f06-63ad-46c8-b404-d1a55c7bd5ec",
+        "5a4af184-d720-4213-9fe4-be5865558729",
+        "ff226859-3999-4573-98d9-e7f2ffa64a74",
+        "d7e91469-5fab-45a3-8da5-af7a484e1683",
+        "7693aff6-374f-4559-89de-f76ee42dd81a",
+        "72797f80-d569-4c2a-8ed4-6606ec8c2dc4",
+        "8210995d-6757-4a9d-9c1b-4cdf4d96e9a2",
+        "295f17fd-9249-4d6e-883f-1f3e5e4533ae",
+        "5da41ae2-bef2-4922-bc94-9880b1daf1cf",
+        "b9ad956b-7db5-4b45-b6f7-feb9140b144a",
+        "3777ed50-4df6-4422-b076-902035f6033a",
+        "63e543ae-f40f-48ae-90aa-562960c4016c",
+        "ca224067-bfb2-4d30-886b-a518105ffd94",
+        "f3b5242f-4a20-457f-a47e-111f8d2dd138",
+        "3dc9c207-e447-4951-a4de-b1befdb46b18",
+        "78b8f9d3-fea0-498a-b852-dd37566d21e1",
+        "e0b9150a-82c5-4eaf-9f96-2df7ecf7c308",
+        "f43a7106-7b23-49db-81a7-2a4a356f375c",
+        "104dc6a8-14d3-4e97-a2d5-45b6787c9fdf",
+        "230bae12-2df9-42a9-b53d-f19d1a0024bc",
+        "c9ac1982-df55-4db9-b142-f86979fdbf7d",
+        "3ebe274a-c6d7-41e5-a637-e131aaeeeea6",
+        "435fa00e-8c3c-453f-9957-b68305e93514",
+        "2d7761e5-6a0b-43d9-bb3d-63bd18151bb0",
+        "7551d077-f00f-43d6-afb4-9298d0d88308",
+        "80d9e7d0-987c-4869-ae9d-051c82b1ffc8",
+        "4d81d76c-9e4a-4ba3-ab8c-c43dfcf8e12f",
+        "2c9eba14-8b55-4ad6-9476-e33df26c27f4",
+        "9f08c706-658d-4050-a177-d334d5aff9ab"
       ]
     }
   ],
@@ -3108,7 +3108,7 @@
     {
       "name": "charleville_1777.png",
       "id": "0",
-      "uuid": "9c2bd2ed-3766-4a0a-be5c-ba4ee0f418b8",
+      "uuid": "e05426ef-a268-4e5c-b4e0-7d80f658b812",
       "source": "data:image/png;base64,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",
       "width": 256,
       "height": 256,
