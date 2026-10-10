@@ -11,7 +11,7 @@ import java.util.function.Consumer;
 public final class UniformArmorItem extends ArmorItem {
     public UniformArmorItem(Type type) { super(UniformArmorMaterial.PRUSSIAN_SKULL_HUSSAR, type, new Properties().stacksTo(1)); }
     @Override public String getArmorTexture(ItemStack stack, Entity entity, EquipmentSlot slot, String type) {
-        return "napoleonic_fantasy:textures/models/armor/prussian_skull_hussar_" + (slot == EquipmentSlot.LEGS ? "layer_2" : "layer_1") + ".png";
+        return "napoleonic_fantasy:textures/models/armor/hussar_materials.png";
     }
     @Override public void initializeClient(Consumer<IClientItemExtensions> consumer) { consumer.accept(new UniformClientExtensions()); }
 }

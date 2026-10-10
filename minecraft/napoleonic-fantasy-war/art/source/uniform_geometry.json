@@ -1,0 +1,3074 @@
+[
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Shako crown",
+    "xyz": [
+      -4.25,
+      -13,
+      -4.25
+    ],
+    "size": [
+      8.5,
+      5.65,
+      8.5
+    ],
+    "mat": "wool"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crown top seam",
+    "xyz": [
+      -4.35,
+      -13.15,
+      -4.35
+    ],
+    "size": [
+      8.7,
+      0.25,
+      8.7
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Lower leather band",
+    "xyz": [
+      -4.35,
+      -7.7,
+      -4.35
+    ],
+    "size": [
+      8.7,
+      0.42,
+      8.7
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Peaked visor",
+    "xyz": [
+      -4.3,
+      -7.35,
+      -5.4
+    ],
+    "size": [
+      8.6,
+      0.24,
+      2.6
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Red rear panel",
+    "xyz": [
+      0.45,
+      -12.95,
+      4.26
+    ],
+    "size": [
+      3.7,
+      5.2,
+      0.08
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Silver cockade",
+    "xyz": [
+      -0.42,
+      -13.65,
+      -4.43
+    ],
+    "size": [
+      0.84,
+      1.2,
+      0.22
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Cockade centre",
+    "xyz": [
+      -0.2,
+      -13.4,
+      -4.57
+    ],
+    "size": [
+      0.4,
+      0.7,
+      0.09
+    ],
+    "mat": "dark"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Skull forehead",
+    "xyz": [
+      -0.78,
+      -11.7,
+      -4.5
+    ],
+    "size": [
+      1.56,
+      0.85,
+      0.22
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Skull cheek",
+    "xyz": [
+      -0.62,
+      -10.9,
+      -4.53
+    ],
+    "size": [
+      1.24,
+      0.38,
+      0.22
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Skull jaw",
+    "xyz": [
+      -0.4,
+      -10.54,
+      -4.54
+    ],
+    "size": [
+      0.8,
+      0.4,
+      0.2
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Eye socket",
+    "xyz": [
+      -0.53,
+      -11.22,
+      -4.74
+    ],
+    "size": [
+      0.36,
+      0.36,
+      0.05
+    ],
+    "mat": "dark"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Eye socket",
+    "xyz": [
+      0.16,
+      -11.22,
+      -4.74
+    ],
+    "size": [
+      0.36,
+      0.36,
+      0.05
+    ],
+    "mat": "dark"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Nose cavity",
+    "xyz": [
+      -0.1,
+      -10.77,
+      -4.76
+    ],
+    "size": [
+      0.2,
+      0.24,
+      0.05
+    ],
+    "mat": "dark"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -1.13,
+      -9.31,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -1.13,
+      -10.19,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.8799999999999999,
+      -9.42,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.8799999999999999,
+      -10.08,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.6299999999999999,
+      -9.53,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.6299999999999999,
+      -9.97,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.3799999999999999,
+      -9.64,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.3799999999999999,
+      -9.86,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.1299999999999999,
+      -9.75,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      -0.1299999999999999,
+      -9.75,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.1200000000000001,
+      -9.86,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.1200000000000001,
+      -9.64,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.3700000000000001,
+      -9.97,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.3700000000000001,
+      -9.53,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.6200000000000001,
+      -10.08,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.6200000000000001,
+      -9.42,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.8700000000000001,
+      -10.19,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Crossbone",
+    "xyz": [
+      0.8700000000000001,
+      -9.31,
+      -4.53
+    ],
+    "size": [
+      0.32,
+      0.18,
+      0.17
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Silver side button",
+    "xyz": [
+      -4.51,
+      -7.8,
+      -0.4
+    ],
+    "size": [
+      0.24,
+      0.5,
+      0.5
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      -4.41,
+      -7.25,
+      -0.3
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      -4.41,
+      -7.03,
+      -0.5800000000000001
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      -4.41,
+      -6.81,
+      -0.8600000000000001
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      -4.41,
+      -6.59,
+      -1.1400000000000001
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      -4.41,
+      -6.37,
+      -1.4200000000000002
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      -4.41,
+      -6.15,
+      -1.7000000000000002
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      -4.41,
+      -5.93,
+      -1.9800000000000002
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Silver side button",
+    "xyz": [
+      4.27,
+      -7.8,
+      -0.4
+    ],
+    "size": [
+      0.24,
+      0.5,
+      0.5
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      4.23,
+      -7.25,
+      -0.3
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      4.23,
+      -7.03,
+      -0.5800000000000001
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      4.23,
+      -6.81,
+      -0.8600000000000001
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      4.23,
+      -6.59,
+      -1.1400000000000001
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      4.23,
+      -6.37,
+      -1.4200000000000002
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      4.23,
+      -6.15,
+      -1.7000000000000002
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "HEAD",
+    "bone": "head",
+    "name": "Braided chin cord",
+    "xyz": [
+      4.23,
+      -5.93,
+      -1.9800000000000002
+    ],
+    "size": [
+      0.18,
+      0.25,
+      0.2
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Tailored black dolman",
+    "xyz": [
+      -4.2,
+      -0.1,
+      -2.2
+    ],
+    "size": [
+      8.4,
+      12.15,
+      4.4
+    ],
+    "mat": "wool"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Collar back",
+    "xyz": [
+      -3.8,
+      -1,
+      1.85
+    ],
+    "size": [
+      7.6,
+      1.8,
+      0.42
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Collar side",
+    "xyz": [
+      -3.25,
+      -0.7,
+      -1.95
+    ],
+    "size": [
+      0.8,
+      1.5,
+      4
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Collar side",
+    "xyz": [
+      2.45,
+      -0.7,
+      -1.95
+    ],
+    "size": [
+      0.8,
+      1.5,
+      4
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Collar front",
+    "xyz": [
+      -2.85,
+      0,
+      -2.33
+    ],
+    "size": [
+      5.7,
+      0.85,
+      0.22
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Collar silver edge",
+    "xyz": [
+      -2.9,
+      0.65,
+      -2.47
+    ],
+    "size": [
+      5.8,
+      0.13,
+      0.1
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      1.65,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      1.5499999999999998,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      1.65,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      1.5499999999999998,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      1.5799999999999998,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      2.37,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      2.27,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      2.37,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      2.27,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      2.3000000000000003,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      3.09,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      2.9899999999999998,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      3.09,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      2.9899999999999998,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      3.02,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      3.81,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      3.71,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      3.81,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      3.71,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      3.74,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      4.529999999999999,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      4.43,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      4.529999999999999,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      4.43,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      4.459999999999999,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      5.25,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      5.15,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      5.25,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      5.15,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      5.18,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      5.970000000000001,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      5.870000000000001,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      5.970000000000001,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      5.870000000000001,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      5.9,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      6.6899999999999995,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      6.59,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      6.6899999999999995,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      6.59,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      6.619999999999999,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      7.41,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      7.3100000000000005,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      7.41,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      7.3100000000000005,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      7.34,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      -2.8,
+      8.129999999999999,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      -3.08,
+      8.03,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Silver chest braid",
+    "xyz": [
+      0.18,
+      8.129999999999999,
+      -2.39
+    ],
+    "size": [
+      2.62,
+      0.13,
+      0.16
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Braid button",
+    "xyz": [
+      2.8200000000000003,
+      8.03,
+      -2.48
+    ],
+    "size": [
+      0.26,
+      0.31,
+      0.19
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Central fastening",
+    "xyz": [
+      -0.13,
+      8.059999999999999,
+      -2.52
+    ],
+    "size": [
+      0.26,
+      0.26,
+      0.18
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Waist sash",
+    "xyz": [
+      -4.27,
+      9.35,
+      -2.28
+    ],
+    "size": [
+      8.54,
+      1.2,
+      4.56
+    ],
+    "mat": "wool"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Sash silver cords",
+    "xyz": [
+      -4.28,
+      9.45,
+      -2.42
+    ],
+    "size": [
+      8.56,
+      0.1,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Sash silver cords",
+    "xyz": [
+      -4.28,
+      9.7,
+      -2.42
+    ],
+    "size": [
+      8.56,
+      0.1,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Sash silver cords",
+    "xyz": [
+      -4.28,
+      9.95,
+      -2.42
+    ],
+    "size": [
+      8.56,
+      0.1,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Sash silver cords",
+    "xyz": [
+      -4.28,
+      10.2,
+      -2.42
+    ],
+    "size": [
+      8.56,
+      0.1,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Leather belt",
+    "xyz": [
+      -4.3,
+      10.7,
+      -2.31
+    ],
+    "size": [
+      8.6,
+      0.6,
+      4.62
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Belt buckle",
+    "xyz": [
+      -0.55,
+      10.62,
+      -2.48
+    ],
+    "size": [
+      1.1,
+      0.76,
+      0.22
+    ],
+    "mat": "gold"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Buckle inset",
+    "xyz": [
+      -0.32,
+      10.81,
+      -2.61
+    ],
+    "size": [
+      0.64,
+      0.35,
+      0.05
+    ],
+    "mat": "dark"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      3.05,
+      0.6,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      2.63,
+      1.0899999999999999,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      2.21,
+      1.58,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      1.7899999999999998,
+      2.07,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      1.3699999999999999,
+      2.56,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      0.9499999999999997,
+      3.0500000000000003,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      0.5299999999999998,
+      3.54,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      0.10999999999999988,
+      4.029999999999999,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -0.31000000000000005,
+      4.52,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -0.73,
+      5.01,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -1.1500000000000004,
+      5.5,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -1.5700000000000003,
+      5.989999999999999,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -1.9900000000000002,
+      6.4799999999999995,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -2.41,
+      6.97,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -2.83,
+      7.459999999999999,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Diagonal baldric",
+    "xyz": [
+      -3.25,
+      7.949999999999999,
+      -2.66
+    ],
+    "size": [
+      0.67,
+      0.66,
+      0.18
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Baldric fitting",
+    "xyz": [
+      1.65,
+      2.1,
+      -2.91
+    ],
+    "size": [
+      0.68,
+      0.75,
+      0.12
+    ],
+    "mat": "gold"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Sabretache pouch",
+    "xyz": [
+      3.95,
+      8.5,
+      -0.25
+    ],
+    "size": [
+      0.85,
+      3.15,
+      2.3
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pouch silver piping",
+    "xyz": [
+      4.7,
+      8.6,
+      -0.15
+    ],
+    "size": [
+      0.13,
+      2.9,
+      2.1
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse front panel",
+    "xyz": [
+      2.9,
+      1.2,
+      -2.71
+    ],
+    "size": [
+      1.3,
+      7.7,
+      0.22
+    ],
+    "mat": "wool"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      1.0,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      1.6,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      2.2,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      2.8,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      3.4,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      4.0,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      4.6,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      5.2,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      5.8,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      6.3999999999999995,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      7.0,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      7.6,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse fur edging",
+    "xyz": [
+      4.02,
+      8.2,
+      -2.8
+    ],
+    "size": [
+      0.4,
+      0.54,
+      0.4
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      1.7,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      2.4,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      3.0999999999999996,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      3.8,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      4.5,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      5.2,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      5.8999999999999995,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      6.6,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "body",
+    "name": "Pelisse silver loops",
+    "xyz": [
+      3.0,
+      7.3,
+      -2.97
+    ],
+    "size": [
+      0.95,
+      0.12,
+      0.12
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Fitted sleeve",
+    "xyz": [
+      -2.18,
+      -2.08,
+      -2.18
+    ],
+    "size": [
+      4.36,
+      11.9,
+      4.36
+    ],
+    "mat": "wool"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Crimson cuff",
+    "xyz": [
+      -2.22,
+      8.2,
+      -2.22
+    ],
+    "size": [
+      4.44,
+      1.55,
+      4.44
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Cuff silver edge",
+    "xyz": [
+      -2.24,
+      9.65,
+      -2.24
+    ],
+    "size": [
+      4.48,
+      0.15,
+      4.48
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "White glove",
+    "xyz": [
+      -2.15,
+      9.88,
+      -2.15
+    ],
+    "size": [
+      4.3,
+      2.2,
+      4.3
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Shoulder red piping",
+    "xyz": [
+      -2.22,
+      -2.18,
+      -2.2
+    ],
+    "size": [
+      4.44,
+      0.16,
+      4.4
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      -0.7,
+      7.71,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      -0.43999999999999995,
+      7.529999999999999,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      -0.17999999999999994,
+      7.35,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      0.08000000000000007,
+      7.529999999999999,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "right_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      0.3400000000000001,
+      7.71,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Fitted sleeve",
+    "xyz": [
+      -2.18,
+      -2.08,
+      -2.18
+    ],
+    "size": [
+      4.36,
+      11.9,
+      4.36
+    ],
+    "mat": "wool"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Crimson cuff",
+    "xyz": [
+      -2.22,
+      8.2,
+      -2.22
+    ],
+    "size": [
+      4.44,
+      1.55,
+      4.44
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Cuff silver edge",
+    "xyz": [
+      -2.24,
+      9.65,
+      -2.24
+    ],
+    "size": [
+      4.48,
+      0.15,
+      4.48
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "White glove",
+    "xyz": [
+      -2.15,
+      9.88,
+      -2.15
+    ],
+    "size": [
+      4.3,
+      2.2,
+      4.3
+    ],
+    "mat": "bone"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Shoulder red piping",
+    "xyz": [
+      -2.22,
+      -2.18,
+      -2.2
+    ],
+    "size": [
+      4.44,
+      0.16,
+      4.4
+    ],
+    "mat": "red"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      -0.7,
+      7.71,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      -0.43999999999999995,
+      7.529999999999999,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      -0.17999999999999994,
+      7.35,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      0.08000000000000007,
+      7.529999999999999,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Cuff embroidery",
+    "xyz": [
+      0.3400000000000001,
+      7.71,
+      -2.4
+    ],
+    "size": [
+      0.15,
+      0.75,
+      0.13
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Pelisse shoulder fur",
+    "xyz": [
+      -2.32,
+      -2.4,
+      -2.34
+    ],
+    "size": [
+      0.61,
+      0.42,
+      4.68
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Pelisse shoulder fur",
+    "xyz": [
+      -1.6799999999999997,
+      -2.4,
+      -2.34
+    ],
+    "size": [
+      0.61,
+      0.42,
+      4.68
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Pelisse shoulder fur",
+    "xyz": [
+      -1.0399999999999998,
+      -2.4,
+      -2.34
+    ],
+    "size": [
+      0.61,
+      0.42,
+      4.68
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Pelisse shoulder fur",
+    "xyz": [
+      -0.3999999999999999,
+      -2.4,
+      -2.34
+    ],
+    "size": [
+      0.61,
+      0.42,
+      4.68
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Pelisse shoulder fur",
+    "xyz": [
+      0.2400000000000002,
+      -2.4,
+      -2.34
+    ],
+    "size": [
+      0.61,
+      0.42,
+      4.68
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Pelisse shoulder fur",
+    "xyz": [
+      0.8800000000000003,
+      -2.4,
+      -2.34
+    ],
+    "size": [
+      0.61,
+      0.42,
+      4.68
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "CHEST",
+    "bone": "left_arm",
+    "name": "Pelisse shoulder fur",
+    "xyz": [
+      1.52,
+      -2.4,
+      -2.34
+    ],
+    "size": [
+      0.61,
+      0.42,
+      4.68
+    ],
+    "mat": "fur"
+  },
+  {
+    "slot": "LEGS",
+    "bone": "right_leg",
+    "name": "Fitted grey breeches",
+    "xyz": [
+      -2.12,
+      -0.12,
+      -2.12
+    ],
+    "size": [
+      4.24,
+      11.7,
+      4.24
+    ],
+    "mat": "grey"
+  },
+  {
+    "slot": "LEGS",
+    "bone": "right_leg",
+    "name": "Outer black trouser stripe",
+    "xyz": [
+      -2.2,
+      0.1,
+      -0.22
+    ],
+    "size": [
+      0.12,
+      11.3,
+      0.44
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "LEGS",
+    "bone": "right_leg",
+    "name": "Silver trouser seam",
+    "xyz": [
+      -2.23,
+      0.1,
+      -0.07
+    ],
+    "size": [
+      0.03,
+      11.3,
+      0.14
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "FEET",
+    "bone": "right_leg",
+    "name": "Black ankle boot",
+    "xyz": [
+      -2.22,
+      9.55,
+      -2.26
+    ],
+    "size": [
+      4.44,
+      2.57,
+      4.52
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "FEET",
+    "bone": "right_leg",
+    "name": "Boot toe",
+    "xyz": [
+      -2.2,
+      10.9,
+      -2.95
+    ],
+    "size": [
+      4.4,
+      1.22,
+      0.85
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "FEET",
+    "bone": "right_leg",
+    "name": "Boot sole",
+    "xyz": [
+      -2.24,
+      11.95,
+      -3
+    ],
+    "size": [
+      4.48,
+      0.28,
+      5.28
+    ],
+    "mat": "dark"
+  },
+  {
+    "slot": "LEGS",
+    "bone": "left_leg",
+    "name": "Fitted grey breeches",
+    "xyz": [
+      -2.12,
+      -0.12,
+      -2.12
+    ],
+    "size": [
+      4.24,
+      11.7,
+      4.24
+    ],
+    "mat": "grey"
+  },
+  {
+    "slot": "LEGS",
+    "bone": "left_leg",
+    "name": "Outer black trouser stripe",
+    "xyz": [
+      2.08,
+      0.1,
+      -0.22
+    ],
+    "size": [
+      0.12,
+      11.3,
+      0.44
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "LEGS",
+    "bone": "left_leg",
+    "name": "Silver trouser seam",
+    "xyz": [
+      2.18,
+      0.1,
+      -0.07
+    ],
+    "size": [
+      0.03,
+      11.3,
+      0.14
+    ],
+    "mat": "silver"
+  },
+  {
+    "slot": "FEET",
+    "bone": "left_leg",
+    "name": "Black ankle boot",
+    "xyz": [
+      -2.22,
+      9.55,
+      -2.26
+    ],
+    "size": [
+      4.44,
+      2.57,
+      4.52
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "FEET",
+    "bone": "left_leg",
+    "name": "Boot toe",
+    "xyz": [
+      -2.2,
+      10.9,
+      -2.95
+    ],
+    "size": [
+      4.4,
+      1.22,
+      0.85
+    ],
+    "mat": "leather"
+  },
+  {
+    "slot": "FEET",
+    "bone": "left_leg",
+    "name": "Boot sole",
+    "xyz": [
+      -2.24,
+      11.95,
+      -3
+    ],
+    "size": [
+      4.48,
+      0.28,
+      5.28
+    ],
+    "mat": "dark"
+  }
+]

@@ -6,7 +6,7 @@
 - **帝国鹰首军剑**：普通挥斩、蓄力剑气和范围冲击，带金色剑气、法阵粒子和专用持剑动作。
 - **格里博瓦尔手持大炮**：海绵清膛、装药、装弹、推弹、瞄准、点火和复位七段动作；实心炮弹与霰弹罐；炮口火焰、烟雾、火星、扬尘和炮声。
 
-服装 Blockbench 源文件在 `art/source/prussian_skull_hussar_uniform.bbmodel`，材质原图在 `art/source/prussian_skull_hussar_atlas.png`。军服材质使用生成的黑色羊毛、红色领口、银色绳饰、白灰毛领、灰色马裤和黑色皮革区域。
+服装 Blockbench 源文件在 `art/source/prussian_skull_hussar_uniform.bbmodel`，材质原图在 `art/source/hussar_materials.png`，并提供经典与 Slim 两套 Blockbench 几何源。军服材质使用生成的黑色羊毛、红色领口、银色绳饰、白灰毛领、灰色马裤和黑色皮革区域；四个装备槽使用独立模型层，服装会随人物动作贴合。
 
 ## 安装
 
