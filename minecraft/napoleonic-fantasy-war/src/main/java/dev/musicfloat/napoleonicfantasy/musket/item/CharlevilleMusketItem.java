@@ -48,10 +48,15 @@ public final class CharlevilleMusketItem extends Item {
     @Override public void onUseTick(Level level, LivingEntity entity, ItemStack stack, int remaining) {
         if (level.isClientSide || !(entity instanceof Player player) || bayonet(stack) || loaded(stack)) return;
         int tick = getUseDuration(stack) - remaining;
+        // Seven historically recognizable beats: handle/tear, prime, pour, draw
+        // rammer, seat the cartridge, return the rod, then close the lock.
         if (tick == 1) sound(level, player, "cartridge", .55f);
-        if (tick == 25) sound(level, player, "powder", .65f);
-        if (tick == 52) sound(level, player, "ramrod", .7f);
-        if (tick == 84) sound(level, player, "flintlock", .55f);
+        if (tick == 18) sound(level, player, "insert", .45f);
+        if (tick == 36) sound(level, player, "powder", .65f);
+        if (tick == 54) sound(level, player, "ramrod", .7f);
+        if (tick == 71) sound(level, player, "ram", .7f);
+        if (tick == 87) sound(level, player, "return", .5f);
+        if (tick == 96) sound(level, player, "flintlock", .55f);
         if (tick >= LOAD_TICKS) {
             stack.getOrCreateTag().putBoolean("Loaded", true);
             player.displayClientMessage(Component.translatable("message.napoleonic_fantasy.musket_ready"), true);

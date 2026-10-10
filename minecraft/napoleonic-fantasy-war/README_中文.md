@@ -9,7 +9,7 @@
 
 服装 Blockbench 源文件在 `art/source/prussian_skull_hussar_uniform.bbmodel`，材质原图在 `art/source/hussar_materials.png`，并提供经典与 Slim 两套 Blockbench 几何源。军服材质使用生成的黑色羊毛、红色领口、银色绳饰、白灰毛领、灰色马裤和黑色皮革区域；四个装备槽使用独立模型层，服装会随人物动作贴合。
 
-沙勒维尔枪的 Blockbench 源文件为 `art/source/charleville_1777.bbmodel`，使用 256×256 手绘材质图和分区 UV，避免物品栏及第一人称材质错采样。枪体包含枪托、锁板、击锤、火镰、火药池、扳机、三道枪箍、通条和可切换套筒刺刀。
+沙勒维尔枪的 Blockbench 源文件为 `art/source/charleville_1777.bbmodel`，按 1490 mm 全长、1147 mm 枪管和 520 mm 套筒刺刀重新布置 X 轴比例，使用生图模型生成的木材、枪钢、黄铜和锁机构材质图 `art/source/charleville_material_generated.png`，再压成 256×256 分区 UV，避免物品栏及第一人称材质错采样。枪体包含枪托、锁板、击锤、火镰、火药池、扳机、三道枪箍、通条、吊环和可切换套筒刺刀；第三人称变换把枪托贴到肩部、枪管斜向前下方，不再藏进身体。
 
 ## 安装
 
@@ -43,4 +43,4 @@ napoleonic_fantasy:canister_shot
 napoleonic_fantasy:charleville_1777
 ```
 
-燧发枪操作：空枪按住右键完成约 5 秒装填，松开右键击发；射击后必须重新装填。Shift + 右键安装或卸下套筒刺刀，安装后右键为近战突刺。枪声、纸包弹、通条、燧发机构和刺刀音效均已接入。
+燧发枪操作：空枪按住右键完成约 5 秒装填，动作按历史节拍分为取/撕纸包、引火池、倒药与弹、抽通条、压实、收通条、关火镰七段；松开右键击发，射击后必须重新装填。Shift + 右键安装或卸下套筒刺刀，安装后右键为近战突刺。枪声、纸包弹、通条、燧发机构和刺刀音效均已接入。

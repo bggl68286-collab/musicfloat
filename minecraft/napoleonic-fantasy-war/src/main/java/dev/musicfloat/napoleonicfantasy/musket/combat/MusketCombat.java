@@ -36,10 +36,17 @@ public final class MusketCombat {
             }
         }
         if (best != null) best.hurt(player.damageSources().playerAttack(player), DAMAGE);
-        level.sendParticles(ParticleTypes.CLOUD, impact.x, impact.y, impact.z, 16, .12, .12, .12, .03);
-        level.sendParticles(ParticleTypes.SMOKE, start.x + direction.x * .8, start.y + direction.y * .8, start.z + direction.z * .8, 36, .18, .18, .18, .045);
-        level.sendParticles(ParticleTypes.FLAME, start.x + direction.x * .7, start.y + direction.y * .7, start.z + direction.z * .7, 8, .08, .08, .08, .02);
-        level.sendParticles(ParticleTypes.CRIT, start.x + direction.x * .72, start.y + direction.y * .72, start.z + direction.z * .72, 14, .12, .12, .12, .16);
+        Vec3 muzzle = start.add(direction.scale(1.02));
+        // Layered from the generated VFX reference: hot core, sparks, flash halo,
+        // then a short-lived black-powder smoke cloud and drifting ash.
+        level.sendParticles(ParticleTypes.FLAME, muzzle.x, muzzle.y, muzzle.z, 18, .10, .10, .10, .035);
+        level.sendParticles(ParticleTypes.LAVA, muzzle.x, muzzle.y, muzzle.z, 4, .08, .08, .08, .01);
+        level.sendParticles(ParticleTypes.CRIT, muzzle.x, muzzle.y, muzzle.z, 24, .18, .18, .18, .20);
+        level.sendParticles(ParticleTypes.SMOKE, muzzle.x, muzzle.y, muzzle.z, 30, .20, .20, .20, .05);
+        level.sendParticles(ParticleTypes.CAMPFIRE_COSY_SMOKE, muzzle.x, muzzle.y, muzzle.z, 8, .16, .16, .16, .025);
+        level.sendParticles(ParticleTypes.WHITE_ASH, muzzle.x, muzzle.y, muzzle.z, 20, .25, .25, .25, .035);
+        level.sendParticles(ParticleTypes.CLOUD, impact.x, impact.y, impact.z, 18, .12, .12, .12, .03);
+        player.setDeltaMovement(player.getDeltaMovement().subtract(direction.scale(.035)));
         level.playSound(null, player.blockPosition(), NapoleonicFantasy.SOUND.get("musket_report").get(), SoundSource.PLAYERS, 1.15f, .92f + level.random.nextFloat() * .12f);
         player.getCooldowns().addCooldown(NapoleonicFantasy.MUSKET.get(), 16);
     }

@@ -6,83 +6,14 @@
   "elements": [
     {
       "from": [
-        0.5,
-        6.1,
-        6.0
+        0.0,
+        8.7,
+        5.7
       ],
       "to": [
-        2.1,
-        10.0,
-        10.0
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Butt stock"
-    },
-    {
-      "from": [
-        0.35,
-        8.9,
-        6.2
-      ],
-      "to": [
-        1.7,
-        10.35,
-        9.8
+        2.16,
+        10.8,
+        10.3
       ],
       "faces": {
         "north": {
@@ -144,14 +75,14 @@
     },
     {
       "from": [
-        1.6,
-        5.9,
-        6.25
+        0.27999999999999997,
+        6.1,
+        5.8
       ],
       "to": [
-        4.2,
-        9.3,
-        9.75
+        2.64,
+        9.7,
+        10.3
       ],
       "faces": {
         "north": {
@@ -209,432 +140,18 @@
           "texture": "#material"
         }
       },
-      "name": "Stock wrist"
+      "name": "Butt cheek"
     },
     {
       "from": [
-        1.2,
-        5.35,
-        6.55
-      ],
-      "to": [
-        3.0,
-        6.2,
-        9.45
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Stock comb"
-    },
-    {
-      "from": [
-        2.05,
-        5.5,
-        5.72
-      ],
-      "to": [
-        4.0,
-        7.0,
+        0.12,
+        10.25,
         6.1
       ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Cheek piece"
-    },
-    {
-      "from": [
-        3.0,
-        6.3,
-        5.95
-      ],
       "to": [
-        6.8,
-        8.8,
-        10.05
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Lock bed"
-    },
-    {
-      "from": [
-        5.3,
-        6.55,
-        6.25
-      ],
-      "to": [
-        10.1,
-        9.45,
-        9.75
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Forearm"
-    },
-    {
-      "from": [
-        9.2,
-        6.75,
-        6.45
-      ],
-      "to": [
-        11.25,
-        9.25,
-        9.55
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            0,
-            0,
-            4,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Forearm tip"
-    },
-    {
-      "from": [
-        0.15,
-        6.4,
-        6.3
-      ],
-      "to": [
-        0.55,
-        10.05,
-        9.7
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            8,
-            0,
-            12,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            8,
-            0,
-            12,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            8,
-            0,
-            12,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            8,
-            0,
-            12,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            8,
-            0,
-            12,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            8,
-            0,
-            12,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Brass butt plate"
-    },
-    {
-      "from": [
-        0.2,
-        9.75,
-        6.4
-      ],
-      "to": [
-        1.65,
-        10.25,
-        9.6
+        1.92,
+        10.85,
+        9.9
       ],
       "faces": {
         "north": {
@@ -696,14 +213,14 @@
     },
     {
       "from": [
-        2.35,
-        9.0,
-        6.45
+        -0.04000000000000001,
+        6.35,
+        6.0
       ],
       "to": [
-        4.75,
-        10.0,
-        9.55
+        0.44000000000000006,
+        10.55,
+        10.0
       ],
       "faces": {
         "north": {
@@ -761,18 +278,501 @@
           "texture": "#material"
         }
       },
-      "name": "Trigger guard"
+      "name": "Brass butt plate"
     },
     {
       "from": [
-        2.8,
-        9.55,
-        6.2
+        0.52,
+        5.3,
+        6.15
       ],
       "to": [
-        4.3,
+        3.6,
+        6.45,
+        9.85
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Comb"
+    },
+    {
+      "from": [
+        2.16,
+        5.85,
+        5.95
+      ],
+      "to": [
+        6.32,
+        9.6,
+        10.05
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Wrist"
+    },
+    {
+      "from": [
+        2.4000000000000004,
+        5.25,
+        5.45
+      ],
+      "to": [
+        5.120000000000001,
+        7.15,
+        5.95
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Cheek piece"
+    },
+    {
+      "from": [
+        5.28,
+        6.0,
+        5.8
+      ],
+      "to": [
+        10.4,
+        9.35,
+        10.15
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Lock bed"
+    },
+    {
+      "from": [
+        9.200000000000001,
+        6.3,
+        6.1
+      ],
+      "to": [
+        14.0,
+        9.2,
+        9.85
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Forearm rear"
+    },
+    {
+      "from": [
+        13.12,
+        6.55,
+        6.35
+      ],
+      "to": [
+        16.0,
+        9.0,
+        9.6
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            4,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Forearm front"
+    },
+    {
+      "from": [
+        4.08,
+        8.9,
+        6.15
+      ],
+      "to": [
+        6.56,
+        9.45,
+        9.85
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Trigger guard rail"
+    },
+    {
+      "from": [
+        4.44,
+        9.2,
+        5.95
+      ],
+      "to": [
+        6.120000000000001,
         10.2,
-        6.85
+        6.55
       ],
       "faces": {
         "north": {
@@ -834,14 +834,14 @@
     },
     {
       "from": [
-        3.15,
-        6.0,
-        5.65
+        3.6799999999999997,
+        7.1,
+        5.35
       ],
       "to": [
-        4.0,
-        6.55,
-        6.05
+        4.5600000000000005,
+        7.65,
+        5.75
       ],
       "faces": {
         "north": {
@@ -899,18 +899,87 @@
           "texture": "#material"
         }
       },
-      "name": "Side plate"
+      "name": "Escutcheon"
     },
     {
       "from": [
-        6.2,
+        3.28,
+        10.0,
+        8.9
+      ],
+      "to": [
+        4.16,
+        10.45,
+        9.65
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Rear sling swivel"
+    },
+    {
+      "from": [
+        13.600000000000001,
         9.0,
-        9.2
+        9.35
       ],
       "to": [
-        6.75,
+        14.4,
         9.55,
-        9.7
+        9.95
       ],
       "faces": {
         "north": {
@@ -968,87 +1037,87 @@
           "texture": "#material"
         }
       },
-      "name": "Rear ramrod pipe"
+      "name": "Front sling swivel"
     },
     {
       "from": [
-        9.35,
-        8.95,
+        9.520000000000001,
+        6.25,
+        6.25
+      ],
+      "to": [
+        11.200000000000001,
+        9.15,
         9.15
       ],
-      "to": [
-        9.9,
-        9.5,
-        9.7
-      ],
       "faces": {
         "north": {
           "uv": [
-            8,
+            4,
             0,
-            12,
+            8,
             4
           ],
           "texture": "#material"
         },
         "south": {
           "uv": [
-            8,
+            4,
             0,
-            12,
+            8,
             4
           ],
           "texture": "#material"
         },
         "east": {
           "uv": [
-            8,
+            4,
             0,
-            12,
+            8,
             4
           ],
           "texture": "#material"
         },
         "west": {
           "uv": [
-            8,
+            4,
             0,
-            12,
+            8,
             4
           ],
           "texture": "#material"
         },
         "up": {
           "uv": [
-            8,
+            4,
             0,
-            12,
+            8,
             4
           ],
           "texture": "#material"
         },
         "down": {
           "uv": [
-            8,
+            4,
             0,
-            12,
+            8,
             4
           ],
           "texture": "#material"
         }
       },
-      "name": "Front ramrod pipe"
+      "name": "Breech plug"
     },
     {
       "from": [
-        7.1,
+        10.8,
         6.55,
         6.55
       ],
       "to": [
-        9.5,
-        8.95,
-        8.95
+        15.680000000000001,
+        8.85,
+        8.85
       ],
       "faces": {
         "north": {
@@ -1106,16 +1175,16 @@
           "texture": "#material"
         }
       },
-      "name": "Barrel breech"
+      "name": "Barrel rear"
     },
     {
       "from": [
-        9.1,
-        6.82,
-        6.82
+        15.200000000000001,
+        6.72,
+        6.72
       ],
       "to": [
-        14.75,
+        23.040000000000003,
         8.68,
         8.68
       ],
@@ -1179,12 +1248,12 @@
     },
     {
       "from": [
-        14.55,
-        6.55,
-        6.55
+        22.6,
+        6.45,
+        6.45
       ],
       "to": [
-        15.55,
+        24.16,
         8.95,
         8.95
       ],
@@ -1248,14 +1317,14 @@
     },
     {
       "from": [
-        6.75,
-        6.25,
-        6.25
+        10.4,
+        6.1,
+        6.1
       ],
       "to": [
-        7.2,
-        9.25,
-        9.25
+        10.920000000000002,
+        9.3,
+        9.3
       ],
       "faces": {
         "north": {
@@ -1317,12 +1386,12 @@
     },
     {
       "from": [
-        9.65,
-        6.35,
-        6.35
+        14.4,
+        6.25,
+        6.25
       ],
       "to": [
-        10.08,
+        14.96,
         9.15,
         9.15
       ],
@@ -1386,12 +1455,12 @@
     },
     {
       "from": [
-        12.45,
-        6.4,
-        6.4
+        19.200000000000003,
+        6.3,
+        6.3
       ],
       "to": [
-        12.9,
+        19.76,
         9.1,
         9.1
       ],
@@ -1455,14 +1524,14 @@
     },
     {
       "from": [
-        15.15,
-        6.35,
-        6.35
+        23.52,
+        6.25,
+        6.25
       ],
       "to": [
-        15.8,
-        9.15,
-        9.15
+        24.52,
+        9.2,
+        9.2
       ],
       "faces": {
         "north": {
@@ -1524,13 +1593,82 @@
     },
     {
       "from": [
-        3.35,
-        5.55,
-        5.35
+        24.200000000000003,
+        6.75,
+        6.75
       ],
       "to": [
-        6.35,
-        8.45,
+        24.64,
+        8.7,
+        8.7
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            12,
+            0,
+            16,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Muzzle bore"
+    },
+    {
+      "from": [
+        5.44,
+        5.35,
+        5.2
+      ],
+      "to": [
+        10.08,
+        8.55,
         5.85
       ],
       "faces": {
@@ -1593,14 +1731,14 @@
     },
     {
       "from": [
-        4.05,
-        5.0,
+        9.040000000000001,
+        6.0,
         5.15
       ],
       "to": [
-        5.15,
-        6.0,
-        5.55
+        10.64,
+        7.35,
+        5.75
       ],
       "faces": {
         "north": {
@@ -1658,87 +1796,87 @@
           "texture": "#material"
         }
       },
-      "name": "Tumbler housing"
+      "name": "Lock tail"
     },
     {
       "from": [
-        5.45,
-        4.9,
-        5.05
+        6.4,
+        5.0,
+        4.95
       ],
       "to": [
-        6.0,
-        6.8,
-        5.55
+        7.56,
+        6.25,
+        5.45
       ],
       "faces": {
         "north": {
           "uv": [
-            4,
+            12,
             0,
-            8,
+            16,
             4
           ],
           "texture": "#material"
         },
         "south": {
           "uv": [
-            4,
+            12,
             0,
-            8,
+            16,
             4
           ],
           "texture": "#material"
         },
         "east": {
           "uv": [
-            4,
+            12,
             0,
-            8,
+            16,
             4
           ],
           "texture": "#material"
         },
         "west": {
           "uv": [
-            4,
+            12,
             0,
-            8,
+            16,
             4
           ],
           "texture": "#material"
         },
         "up": {
           "uv": [
-            4,
+            12,
             0,
-            8,
+            16,
             4
           ],
           "texture": "#material"
         },
         "down": {
           "uv": [
-            4,
+            12,
             0,
-            8,
+            16,
             4
           ],
           "texture": "#material"
         }
       },
-      "name": "Frizzen"
+      "name": "Tumbler boss"
     },
     {
       "from": [
-        5.25,
-        6.55,
-        5.05
+        8.200000000000001,
+        6.35,
+        4.95
       ],
       "to": [
-        5.8,
+        8.92,
         7.25,
-        5.55
+        5.45
       ],
       "faces": {
         "north": {
@@ -1800,14 +1938,83 @@
     },
     {
       "from": [
-        4.75,
-        6.25,
-        4.95
+        8.520000000000001,
+        4.65,
+        4.9
       ],
       "to": [
-        5.4,
+        9.08,
         6.7,
-        5.45
+        5.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Frizzen face"
+    },
+    {
+      "from": [
+        7.040000000000001,
+        6.15,
+        4.8
+      ],
+      "to": [
+        8.440000000000001,
+        6.8,
+        5.4
       ],
       "faces": {
         "north": {
@@ -1869,14 +2076,14 @@
     },
     {
       "from": [
-        3.8,
-        4.15,
-        5.1
+        6.04,
+        3.9,
+        4.8
       ],
       "to": [
-        4.35,
-        5.85,
-        5.55
+        6.6000000000000005,
+        5.75,
+        5.45
       ],
       "faces": {
         "north": {
@@ -1938,14 +2145,14 @@
     },
     {
       "from": [
-        3.5,
-        3.85,
-        5.05
+        5.760000000000001,
+        3.55,
+        4.75
       ],
       "to": [
-        4.8,
-        4.35,
-        5.55
+        7.120000000000001,
+        4.25,
+        5.4
       ],
       "faces": {
         "north": {
@@ -2007,14 +2214,14 @@
     },
     {
       "from": [
-        3.85,
-        3.6,
-        5.0
+        6.08,
+        3.25,
+        4.7
       ],
       "to": [
-        4.5,
-        4.0,
-        5.6
+        6.76,
+        3.85,
+        5.45
       ],
       "faces": {
         "north": {
@@ -2076,14 +2283,14 @@
     },
     {
       "from": [
-        4.55,
-        7.1,
-        4.85
+        6.5200000000000005,
+        7.0,
+        4.65
       ],
       "to": [
-        4.95,
-        7.5,
-        5.1
+        6.96,
+        7.55,
+        5.0
       ],
       "faces": {
         "north": {
@@ -2141,18 +2348,18 @@
           "texture": "#material"
         }
       },
-      "name": "Lock screw"
+      "name": "Lock screw front"
     },
     {
       "from": [
-        5.55,
-        7.6,
-        4.85
+        8.8,
+        7.35,
+        4.65
       ],
       "to": [
-        5.95,
-        8.0,
-        5.1
+        9.24,
+        7.9,
+        5.0
       ],
       "faces": {
         "north": {
@@ -2214,13 +2421,13 @@
     },
     {
       "from": [
-        4.15,
-        8.15,
-        5.1
+        4.800000000000001,
+        8.0,
+        5.0
       ],
       "to": [
-        4.45,
-        9.3,
+        5.2,
+        9.2,
         5.5
       ],
       "faces": {
@@ -2283,14 +2490,14 @@
     },
     {
       "from": [
-        6.3,
+        8.4,
         9.35,
-        9.48
+        9.62
       ],
       "to": [
-        14.8,
-        9.75,
-        9.72
+        22.880000000000003,
+        9.78,
+        10.0
       ],
       "faces": {
         "north": {
@@ -2352,83 +2559,14 @@
     },
     {
       "from": [
-        14.55,
-        9.28,
-        9.38
+        8.0,
+        9.25,
+        9.5
       ],
       "to": [
-        15.25,
-        9.82,
-        9.82
-      ],
-      "faces": {
-        "north": {
-          "uv": [
-            4,
-            0,
-            8,
-            4
-          ],
-          "texture": "#material"
-        },
-        "south": {
-          "uv": [
-            4,
-            0,
-            8,
-            4
-          ],
-          "texture": "#material"
-        },
-        "east": {
-          "uv": [
-            4,
-            0,
-            8,
-            4
-          ],
-          "texture": "#material"
-        },
-        "west": {
-          "uv": [
-            4,
-            0,
-            8,
-            4
-          ],
-          "texture": "#material"
-        },
-        "up": {
-          "uv": [
-            4,
-            0,
-            8,
-            4
-          ],
-          "texture": "#material"
-        },
-        "down": {
-          "uv": [
-            4,
-            0,
-            8,
-            4
-          ],
-          "texture": "#material"
-        }
-      },
-      "name": "Ramrod tip"
-    },
-    {
-      "from": [
-        5.95,
-        9.28,
-        9.35
-      ],
-      "to": [
-        6.45,
-        9.82,
-        9.85
+        8.72,
+        9.85,
+        10.1
       ],
       "faces": {
         "north": {
@@ -2490,12 +2628,219 @@
     },
     {
       "from": [
-        14.0,
-        6.65,
-        6.65
+        22.560000000000002,
+        9.25,
+        9.45
       ],
       "to": [
-        15.6,
+        23.52,
+        9.88,
+        10.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Ramrod tip"
+    },
+    {
+      "from": [
+        10.56,
+        9.0,
+        9.25
+      ],
+      "to": [
+        11.280000000000001,
+        9.55,
+        9.85
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Ramrod pipe rear"
+    },
+    {
+      "from": [
+        19.12,
+        8.9,
+        9.18
+      ],
+      "to": [
+        19.840000000000003,
+        9.45,
+        9.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            8,
+            0,
+            12,
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Ramrod pipe front"
+    },
+    {
+      "from": [
+        22.880000000000003,
+        6.6,
+        6.6
+      ],
+      "to": [
+        24.560000000000002,
         9.0,
         9.0
       ],
@@ -2559,12 +2904,12 @@
     },
     {
       "from": [
-        14.25,
-        6.35,
-        6.35
+        23.040000000000003,
+        6.3,
+        6.3
       ],
       "to": [
-        14.7,
+        23.6,
         9.3,
         9.3
       ],
@@ -2624,71 +2969,140 @@
           "texture": "#material"
         }
       },
-      "name": "Bayonet collar"
+      "name": "Bayonet locking ring"
     },
     {
       "from": [
-        15.1,
-        7.3,
-        7.3
+        24.0,
+        7.1,
+        7.1
       ],
       "to": [
-        16.0,
-        8.3,
-        8.3
+        25.6,
+        8.35,
+        8.35
       ],
       "faces": {
         "north": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "south": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "east": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "west": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "up": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "down": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
+          ],
+          "texture": "#material"
+        }
+      },
+      "name": "Bayonet blade ricasso"
+    },
+    {
+      "from": [
+        25.200000000000003,
+        7.35,
+        7.35
+      ],
+      "to": [
+        30.8,
+        8.1,
+        8.1
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "south": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "east": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "west": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "up": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
+          ],
+          "texture": "#material"
+        },
+        "down": {
+          "uv": [
+            4,
+            0,
+            8,
+            4
           ],
           "texture": "#material"
         }
@@ -2697,67 +3111,67 @@
     },
     {
       "from": [
-        15.9,
-        7.55,
-        7.55
+        30.400000000000002,
+        7.58,
+        7.58
       ],
       "to": [
-        16.7,
-        8.05,
-        8.05
+        31.52,
+        7.88,
+        7.88
       ],
       "faces": {
         "north": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "south": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "east": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "west": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "up": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         },
         "down": {
           "uv": [
             4,
-            4,
+            0,
             8,
-            8
+            4
           ],
           "texture": "#material"
         }
@@ -2773,16 +3187,21 @@
         0
       ],
       "scale": [
-        1.25,
-        1.25,
-        1.25
+        0.92,
+        0.92,
+        0.92
       ]
     },
     "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
       "scale": [
-        0.7,
-        0.7,
-        0.7
+        0.9,
+        0.9,
+        0.9
       ]
     },
     "firstperson_righthand": {
@@ -2797,21 +3216,60 @@
         0
       ],
       "scale": [
-        0.7,
-        0.7,
-        0.7
+        0.88,
+        0.88,
+        0.88
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        -90,
+        0
+      ],
+      "translation": [
+        0,
+        1,
+        0
+      ],
+      "scale": [
+        0.88,
+        0.88,
+        0.88
       ]
     },
     "thirdperson_righthand": {
       "rotation": [
         0,
-        90,
+        0,
+        315
+      ],
+      "translation": [
+        1.5,
+        2.0,
         0
       ],
       "scale": [
-        0.65,
-        0.65,
-        0.65
+        1.25,
+        1.25,
+        1.25
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        0,
+        0,
+        315
+      ],
+      "translation": [
+        1.5,
+        2.0,
+        0
+      ],
+      "scale": [
+        1.25,
+        1.25,
+        1.25
       ]
     }
   }
