@@ -19,10 +19,11 @@ public final class MusketItemExtensions implements IClientItemExtensions {
         var other = arm == HumanoidArm.RIGHT ? model.leftArm : model.rightArm;
         float side = arm == HumanoidArm.RIGHT ? 1 : -1;
         float t = Mth.clamp(entity.getTicksUsingItem() / 100f, 0, 1);
-        hand.xRot = -1.0f - t * .42f;
+        float crouch = entity.isCrouching() ? .28f : 0f;
+        hand.xRot = -1.0f - t * .42f - crouch;
         hand.yRot = side * -.22f;
         hand.zRot = side * .08f;
-        other.xRot = -1.18f - t * .18f;
+        other.xRot = -1.18f - t * .18f - crouch * .6f;
         other.yRot = side * .52f;
         other.zRot = side * -.08f;
     });
