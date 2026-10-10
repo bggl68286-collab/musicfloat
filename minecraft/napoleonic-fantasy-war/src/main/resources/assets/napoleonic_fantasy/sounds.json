@@ -88,5 +88,65 @@
         "attenuation_distance": 16
       }
     ]
+  },
+  "cartridge": {
+    "subtitle": "subtitles.napoleonic_fantasy.cartridge",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:cartridge",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "ramrod": {
+    "subtitle": "subtitles.napoleonic_fantasy.ramrod",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:ramrod",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "flintlock": {
+    "subtitle": "subtitles.napoleonic_fantasy.flintlock",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:flintlock",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "musket_report": {
+    "subtitle": "subtitles.napoleonic_fantasy.musket_report",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:musket_report",
+        "stream": false,
+        "attenuation_distance": 80
+      }
+    ]
+  },
+  "bayonet_mount": {
+    "subtitle": "subtitles.napoleonic_fantasy.bayonet_mount",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:bayonet_mount",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
+  },
+  "bayonet_thrust": {
+    "subtitle": "subtitles.napoleonic_fantasy.bayonet_thrust",
+    "sounds": [
+      {
+        "name": "napoleonic_fantasy:bayonet_thrust",
+        "stream": false,
+        "attenuation_distance": 16
+      }
+    ]
   }
 }

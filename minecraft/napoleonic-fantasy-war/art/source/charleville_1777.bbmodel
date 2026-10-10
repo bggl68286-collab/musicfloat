@@ -1,0 +1,809 @@
+{
+  "meta": {
+    "format_version": "4.10",
+    "model_format": "free",
+    "box_uv": false
+  },
+  "name": "Charleville Modele 1777",
+  "resolution": {
+    "width": 128,
+    "height": 128
+  },
+  "elements": [
+    {
+      "uuid": "565d91b5-d23f-4f6a-b417-dcd85de3f9cf",
+      "type": "cube",
+      "name": "Stock",
+      "from": [
+        1,
+        6.2,
+        6.2
+      ],
+      "to": [
+        7.2,
+        9.8,
+        9.8
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "50a6f627-dac7-4e72-95d1-4f23def364e1",
+      "type": "cube",
+      "name": "Fore stock",
+      "from": [
+        6.5,
+        6.6,
+        6.5
+      ],
+      "to": [
+        10,
+        9.4,
+        9.5
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "90781af0-8d97-4454-98e6-5198b4ae41ee",
+      "type": "cube",
+      "name": "Barrel",
+      "from": [
+        9,
+        7.05,
+        7.05
+      ],
+      "to": [
+        15.1,
+        8.95,
+        8.95
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "36ccfd7a-aafe-4c84-8a4e-5d9bd06e1cdf",
+      "type": "cube",
+      "name": "Lock plate",
+      "from": [
+        1.5,
+        5.8,
+        6.7
+      ],
+      "to": [
+        4.2,
+        6.3,
+        9.3
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "578a7f83-d084-4fc5-8881-f3a94ca4249d",
+      "type": "cube",
+      "name": "Cock and flint",
+      "from": [
+        2.2,
+        4.9,
+        7.25
+      ],
+      "to": [
+        3.0,
+        5.9,
+        8.75
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "a02765ff-9a73-4537-8c97-a849949c0499",
+      "type": "cube",
+      "name": "Trigger guard",
+      "from": [
+        2.15,
+        9.3,
+        6.9
+      ],
+      "to": [
+        3.2,
+        10.1,
+        9.1
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "786c0575-41ab-4df2-ae4c-c1b70f90ff06",
+      "type": "cube",
+      "name": "Rear barrel band",
+      "from": [
+        5.9,
+        6.0,
+        6.05
+      ],
+      "to": [
+        6.35,
+        10.0,
+        9.95
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "daf8ef01-8eb7-44d1-8be9-5f9088190ef7",
+      "type": "cube",
+      "name": "Front barrel band",
+      "from": [
+        9.2,
+        6.75,
+        6.75
+      ],
+      "to": [
+        9.65,
+        9.25,
+        9.25
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "a7a077ed-77a5-4480-ad08-f151fd175a30",
+      "type": "cube",
+      "name": "Muzzle",
+      "from": [
+        14.8,
+        6.55,
+        6.55
+      ],
+      "to": [
+        15.4,
+        9.45,
+        9.45
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    },
+    {
+      "uuid": "d73dc619-56f6-43a6-89e1-6d473db47083",
+      "type": "cube",
+      "name": "Butt plate",
+      "from": [
+        1.2,
+        5.85,
+        7.4
+      ],
+      "to": [
+        1.65,
+        6.35,
+        8.6
+      ],
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": 0
+        }
+      }
+    }
+  ],
+  "outliner": [
+    {
+      "name": "charleville_1777",
+      "origin": [
+        8,
+        8,
+        8
+      ],
+      "uuid": "dbe75d5e-ae36-4142-8044-7ea2debe1e20",
+      "children": [
+        "565d91b5-d23f-4f6a-b417-dcd85de3f9cf",
+        "50a6f627-dac7-4e72-95d1-4f23def364e1",
+        "90781af0-8d97-4454-98e6-5198b4ae41ee",
+        "36ccfd7a-aafe-4c84-8a4e-5d9bd06e1cdf",
+        "578a7f83-d084-4fc5-8881-f3a94ca4249d",
+        "a02765ff-9a73-4537-8c97-a849949c0499",
+        "786c0575-41ab-4df2-ae4c-c1b70f90ff06",
+        "daf8ef01-8eb7-44d1-8be9-5f9088190ef7",
+        "a7a077ed-77a5-4480-ad08-f151fd175a30",
+        "d73dc619-56f6-43a6-89e1-6d473db47083"
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "charleville_1777.png",
+      "id": "0",
+      "uuid": "a2963436-dea2-4178-8dec-4a9f3566bf68",
+      "source": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAACUUlEQVR4nO3dMUokURSG0W7pxHgScQNiosKswEAxNncBJqZGAwNGrmBmHROOgSsQNHQDoisw1NjGsqTqdd+m/3OygZJ54Mez7u2gp6c7P94mwbZOzqqPUGqj+gDUEkA4AYQTwJzjo8OoZ2YH25u9P7zOnqsPUMwNEG52//RafYZSW3vVJ6jlBggngHACCCeAOf9vbnvHqnV6xhhYfYBiboBwxkBjIMkEEE4A4QQQzhhYfYBiboBwxkBjIMkEEE4A4QTwiVX4lG5ZzxgDqw9QzA0QzhhoDCSZAMIJIJwAwhkDqw9QzA0QzhhoDCSZAMIJoEP1hzTLekYA4YyB1Qco5gYIZww0BpJMAOEEEE4A4YyB1Qco5gYIZww0BpJMAOEE8IVV/ySvxTMCCGcMrD5AMTdAOGOgMZBkAgg39dWxvjqWYAIIJ4BwAgg3/fd7N/ol8OLvS/URSrkBwgkgnADCzaoPsGrOL39VH2Gh/lxfffi3GyCcAMIJIJx3gA4/93d6n7l7eFzCSRZLAB2+88v9TiQt/p9FEsAILX55LSKaTIafRQDFWt0AQ/9kCWBNDA3JFBBOAOEEEE4A4bwEdrAICmcRRC+LIEazCKIJiyAGEUA4AYQTQDgvgR0sgsJZBNHLIojRLIJowiKIQQQQTgDhBBDOS2AHi6BwFkH0sghiNIsgmrAIYhABhBNAOAGE8xLYwSIonEUQvSyCGM0iiCYsghhEAOEEEE4A4bwEdrAICmcRRC+LIEazCKIJiyAGEUA4fwLmzH+v3rpzA4QTQDgBhHsHhmYNFSg6qaMAAAAASUVORK5CYII=",
+      "width": 128,
+      "height": 128,
+      "uv_width": 128,
+      "uv_height": 128
+    }
+  ]
+}

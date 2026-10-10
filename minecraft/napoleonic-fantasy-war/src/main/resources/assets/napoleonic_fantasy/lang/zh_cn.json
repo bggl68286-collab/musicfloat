@@ -38,5 +38,20 @@
   "item.napoleonic_fantasy.prussian_skull_hussar_shako": "普鲁士骷髅骠骑兵军帽",
   "item.napoleonic_fantasy.prussian_skull_hussar_jacket": "普鲁士骷髅骠骑兵合身军上衣",
   "item.napoleonic_fantasy.prussian_skull_hussar_breeches": "普鲁士骷髅骠骑兵马裤",
-  "item.napoleonic_fantasy.prussian_skull_hussar_boots": "普鲁士骷髅骠骑兵长靴"
+  "item.napoleonic_fantasy.prussian_skull_hussar_boots": "普鲁士骷髅骠骑兵长靴",
+  "item.napoleonic_fantasy.charleville_1777": "法国沙勒维尔1777型燧发枪",
+  "tooltip.napoleonic_fantasy.musket_load": "按住右键约5秒：纸包弹、火药、通条、燧发机构",
+  "tooltip.napoleonic_fantasy.musket_bayonet": "Shift + 右键：安装/卸下套筒刺刀；右键：突刺",
+  "state.napoleonic_fantasy.musket_loaded": "已装填 · 松开右键击发",
+  "state.napoleonic_fantasy.musket_empty": "未装填 · 必须完成枪口装填",
+  "message.napoleonic_fantasy.musket_ready": "沙勒维尔1777：装填完成，燧发机构待发",
+  "message.napoleonic_fantasy.musket_cancelled": "装填中断，弹药未消耗",
+  "message.napoleonic_fantasy.bayonet_on": "套筒刺刀已安装",
+  "message.napoleonic_fantasy.bayonet_off": "套筒刺刀已卸下"
+  ,"subtitles.napoleonic_fantasy.cartridge": "纸包弹药展开"
+  ,"subtitles.napoleonic_fantasy.ramrod": "通条推入枪管"
+  ,"subtitles.napoleonic_fantasy.flintlock": "燧发机构咔哒作响"
+  ,"subtitles.napoleonic_fantasy.musket_report": "燧发枪轰鸣"
+  ,"subtitles.napoleonic_fantasy.bayonet_mount": "套筒刺刀安装"
+  ,"subtitles.napoleonic_fantasy.bayonet_thrust": "刺刀突刺"
 }

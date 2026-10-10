@@ -38,5 +38,20 @@
   "item.napoleonic_fantasy.prussian_skull_hussar_shako": "Prussian Skull Hussar Shako",
   "item.napoleonic_fantasy.prussian_skull_hussar_jacket": "Prussian Skull Hussar Fitted Jacket",
   "item.napoleonic_fantasy.prussian_skull_hussar_breeches": "Prussian Skull Hussar Breeches",
-  "item.napoleonic_fantasy.prussian_skull_hussar_boots": "Prussian Skull Hussar Boots"
+  "item.napoleonic_fantasy.prussian_skull_hussar_boots": "Prussian Skull Hussar Boots",
+  "item.napoleonic_fantasy.charleville_1777": "French Charleville Model 1777 Musket",
+  "tooltip.napoleonic_fantasy.musket_load": "Hold right click about 5 seconds: cartridge, powder, ramrod, flintlock",
+  "tooltip.napoleonic_fantasy.musket_bayonet": "Shift + right click mounts the socket bayonet; right click thrusts",
+  "state.napoleonic_fantasy.musket_loaded": "Loaded · release right click to fire",
+  "state.napoleonic_fantasy.musket_empty": "Empty · complete muzzle loading",
+  "message.napoleonic_fantasy.musket_ready": "Charleville 1777: loaded and ready",
+  "message.napoleonic_fantasy.musket_cancelled": "Loading interrupted; ammunition was not consumed",
+  "message.napoleonic_fantasy.bayonet_on": "Socket bayonet mounted",
+  "message.napoleonic_fantasy.bayonet_off": "Socket bayonet removed"
+  ,"subtitles.napoleonic_fantasy.cartridge": "Paper cartridge opened"
+  ,"subtitles.napoleonic_fantasy.ramrod": "Ramrod pushed home"
+  ,"subtitles.napoleonic_fantasy.flintlock": "Flintlock clicks"
+  ,"subtitles.napoleonic_fantasy.musket_report": "Musket report"
+  ,"subtitles.napoleonic_fantasy.bayonet_mount": "Socket bayonet mounted"
+  ,"subtitles.napoleonic_fantasy.bayonet_thrust": "Bayonet thrust"
 }
