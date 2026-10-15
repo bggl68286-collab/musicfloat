@@ -23,6 +23,15 @@ jobs:
           unzip -q charleville1777_1.20.1_forge_project.zip -d /tmp/charleville
           cd /tmp/charleville/charleville1777
           gradle --no-daemon build
+      - name: Launch Forge client smoke test
+        run: |
+          cd /tmp/charleville/charleville1777
+          set +e
+          timeout 150s xvfb-run -a gradle --no-daemon runClient > /tmp/charleville-client.log 2>&1
+          code=$?
+          tail -200 /tmp/charleville-client.log
+          grep -q "charleville1777" /tmp/charleville-client.log
+          test "$code" = "0" -o "$code" = "124"
       - name: Publish built JAR to branch
         run: |
           cp /tmp/charleville/charleville1777/build/libs/*.jar charleville1777-forge-1.20.1.jar
