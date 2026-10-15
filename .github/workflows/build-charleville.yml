@@ -4,7 +4,7 @@ on:
     branches: [ "charleville-1777-1.20.1" ]
   workflow_dispatch:
 permissions:
-  contents: read
+  contents: write
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,6 +23,14 @@ jobs:
           unzip -q charleville1777_1.20.1_forge_project.zip -d /tmp/charleville
           cd /tmp/charleville/charleville1777
           gradle --no-daemon build
+      - name: Publish built JAR to branch
+        run: |
+          cp /tmp/charleville/charleville1777/build/libs/*.jar charleville1777-forge-1.20.1.jar
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add charleville1777-forge-1.20.1.jar
+          git diff --cached --quiet || git commit -m "Publish built Charleville 1777 Forge JAR"
+          git push origin HEAD:charleville-1777-1.20.1
       - uses: actions/upload-artifact@v4
         with:
           name: charleville1777-forge-1.20.1
